@@ -1,1 +1,1 @@
-# hangman
+A terminal version of Hangman
